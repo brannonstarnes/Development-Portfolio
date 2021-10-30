@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Welcome to Brannon's Software Development Portfolio
 
-Make it your own! 
+## About
+
+Here you will find a sample of various projects I have designed and published. Each one showcases a step in my growth as a Software Developer and the tools I am utilizing.
