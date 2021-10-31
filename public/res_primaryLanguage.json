@@ -106,18 +106,18 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Ship Repair Facility, Japan Regional Maintenance Center",
+        "title": "Second Class Navy Diver",
+        "years": "05.2014 - 03.2018",
         "mainTech": [
-          "Angular 7/8"
+          "Lead Petty Officer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Supervised 12 Man Dive Team",
+          "Underwater Ships' Husbandry",
+          "Surface Supplied Diving",
+          "MK-3 Lightweight Dive System",
+          "Transportable Recompression Chamber System"
         ]
       }
     ]
