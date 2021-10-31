@@ -8,4 +8,5 @@ Deployed at: https://starnes-development-portfolio.netlify.app/
 
 Photo Credits:
 -https://www.pexels.com/photo/wood-bird-art-construction-9891049/
--https://upload.wikimedia.org/wikipedia/commons/1/1d/US_Navy_110629-N-XD935-058_Chilean_navy_divers_walk_along_the_ocean_floor_during_diving_operations.jpg
+-https://www.pexels.com/photo/purple-and-white-petaled-flower-515631/
+-https://www.pexels.com/photo/moon-jellyfish-floating-in-water-5472598/
