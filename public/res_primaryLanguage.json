@@ -15,8 +15,12 @@
         "startDate": "2021",
         "description": "Meditation Station is a customizable meditation/relaxation page. Features include personalized background selection, sound selection, and session timer. The sky in each destination background will change depending on the user's time of day (i.e. your destination will display a rising sun in the morning or a starry sky at night).",
         "images": [
-          "images/portfolio/meditation-station/meditation_portfolio_screenshot.jpg",
-          "images/portfolio/meditation-station/meditation_portfolio_screenshot2.jpg"
+          "images/portfolio/meditation-station/p1.jpg",
+          "images/portfolio/meditation-station/p2.jpg",
+          "images/portfolio/meditation-station/p3.jpg",
+          "images/portfolio/meditation-station/p4.jpg",
+          "images/portfolio/meditation-station/p5.jpg",
+          "images/portfolio/meditation-station/p6.jpg"
         ],
         "url": "https://chillventure.github.io/Meditation-Station/",
         "technologies": [
