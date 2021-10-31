@@ -43,8 +43,9 @@
         "startDate": "2021",
         "description": "My first application using React! Peruse a fine gallery of Legendary Horned Beasts and vote for your favorites. Filter the beasts by their number of horns or click an image to get a better view. Makes use of React Bootstrap and JSON mapping.",
         "images": [
-          "images/portfolio/horned-beasts/hornedBeastCap.jpg",
-          "images/portfolio/horned-beasts/hornedBeastCap2.jpg"
+          "images/portfolio/horned-beasts/p1.jpg",
+          "images/portfolio/horned-beasts/p2.jpg",
+          "images/portfolio/horned-beasts/p3.jpg"
         ],
         "url": "https://horned-beasts-of-legend.netlify.app/",
         "technologies": [
@@ -67,8 +68,9 @@
         "startDate": "2021",
         "description": "My very first app and still a passion project. This is where it all started, accomplished with self teaching, poor practices, and pure determination. I couldn't be more proud for having zero programming background or education at the time this was project began. I wanted to build my very own application for tracking and logging dive times and events AND have a simple SCUBA duration calculator at my fingertips. This would be the perfect tool for any diving supervisor. ",
         "images": [
-          "images/portfolio/dive-app/diveApp_portfolio_screenshot.jpg",
-          "images/portfolio/dive-app/p2.jpg"
+          "images/portfolio/dive-app/p1.jpg",
+          "images/portfolio/dive-app/p2.jpg",
+          "images/portfolio/dive-app/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
