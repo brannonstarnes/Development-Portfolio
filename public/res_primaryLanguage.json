@@ -73,38 +73,36 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "US Navy",
+        "company": "SEAL Delivery Vehicle Team One",
         "title": "First Class Navy Diver",
-        "years": "09.2011 - 09.2021",
+        "years": "03.2018 - 09.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Lead Diving Representative, Task Unit 1"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MK-16 Semi-closed Circuit Rebreather Supervisor",
+          "MK-25 Closed Circuit Rebreather Supervisor",
+          "Conshelf XIV Tech/SCUBA Supervisor",
+          "Hyperbaric Chamber Supervisor",
+          "Work Center Supervisor",
+          "Division Officer",
+          "REMUS Hydroid Unmanned Underwater Vehicle Operator"
         ]
       },
       {
