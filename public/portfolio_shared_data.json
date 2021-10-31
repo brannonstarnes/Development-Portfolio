@@ -1,17 +1,22 @@
 {
     "basic_info": {
       "name": "Brannon Starnes",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer and Deep Sea Diver, passionate about science, exploration, and designing creative solutions for the betterment of us all!" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/brannonstarnes",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/brannonstarnes/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://www.twitter.com/BrannonStarnes",
+          "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
@@ -21,47 +26,27 @@
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
-          "level": "95"
+          "level": "unknown"
         },
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "unknown"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "level": "unknown"
         },
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "level": "unknown"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "unknown"
         }
       ]
     }

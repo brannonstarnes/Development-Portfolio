@@ -1,9 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Brannon Starnes. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Brannon Starnes. Thanks for taking the time to checkout my development portfolio!",
       "section_name": {
-        "about": "About me",
+        "about": "I’m a software developer, mountaineer, experiential educator, and Navy Diver. I graduated from the University of Utah in 2009 where I received a Bachelor of Science in Experiential Education. Specifically I used rock climbing, ice climbing, mountaineering, and other challenging outdoor pursuits to teach teams about risk management, effective communication, logistics planning, and ultimately, team dynamics. About the time my student loans came due for payment, I realized my passion for teaching in the mountains would not pay the bills, and I decided it was time to fulfill my duty to the country. I enlisted in the Navy in 2011, and pursued the rigorous path toward Special Operations. I found myself thriving in such an environment, and was awarded both in recognition and authority. By my second tour, I was placed in charge of 14 divers and oversaw the daily accomplishment of underwater repair activities on forward deployed ships. At my third command, I was hand picked for a Lead Diving Representative role for two SEAL Task Units, where I managed an inventory of sophisticated diving equipment and underwater vehicles valued at $2.4M. My interest in software development was piqued in 2020 when I attended a school to learn to program Unmanned Underwater Vehicles. During that class I realized that I wanted to have the ability to think of a technology that could improve lives or processes, and make it a reality. So, I made plans to separate from active duty and pursue software development full-time. I’m looking forward to offering my talents to a company that uses technology to solve pressing environmental or humanitarian needs.",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Meditation Station",
+        "startDate": "2021",
+        "description": "Meditation Station is a customizable meditation/relaxation page. Features include personalized background selection, sound selection, and session timer. The sky in each destination background will change depending on the user's time of day (i.e. your destination will display a rising sun in the morning or a starry sky at night).",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/meditation-station/meditation_portfolio_screenshot.jpg",
+          "images/portfolio/meditation-station/p2.jpg"
         ],
-        "url": "",
+        "url": "https://chillventure.github.io/Meditation-Station/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Jngular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts",
+        "startDate": "2021",
+        "description": "My first application using React! Peruse a fine gallery of Legendary Horned Beasts and vote for your favorites. Filter the beasts by their number of horns or click an image to get a better view. Makes use of React Bootstrap and JSON mapping.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/horned-beasts/hornedBeastCap.jpg",
+          "images/portfolio/horned-beasts/hornedBeastCap2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://horned-beasts-of-legend.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,16 +51,20 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Work in Progress: Air Diving Assitant",
+        "startDate": "2021",
+        "description": "My very first app and still a passion project. This is where it all started, accomplished with self teaching, poor practices, and pure determination. I couldn't be more proud for having zero programming background or education at the time this was project began. I wanted to build my very own application for tracking and logging dive times and events AND have a simple SCUBA duration calculator at my fingertips. This would be the perfect tool for any diving supervisor. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/dive-app/diveApp_portfolio_screenshot.jpg",
+          "images/portfolio/dive-app/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,9 +85,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "US Navy",
+        "title": "First Class Navy Diver",
+        "years": "09.2011 - 09.2021",
         "mainTech": [
           "Angular 8/9/10"
         ],
